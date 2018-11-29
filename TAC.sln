@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "events.tac.local", "events.tac.local\events.tac.local.csproj", "{CDF9C8BE-B655-475A-9626-D66125731AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "events.tac.local.Tests", "events.tac.local.Tests\events.tac.local.Tests.csproj", "{9CEB6B17-831B-4348-8303-AED248E2C609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF9C8BE-B655-475A-9626-D66125731AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF9C8BE-B655-475A-9626-D66125731AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF9C8BE-B655-475A-9626-D66125731AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF9C8BE-B655-475A-9626-D66125731AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CEB6B17-831B-4348-8303-AED248E2C609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CEB6B17-831B-4348-8303-AED248E2C609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CEB6B17-831B-4348-8303-AED248E2C609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CEB6B17-831B-4348-8303-AED248E2C609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1C3AB9C-EE2A-49B0-BD46-7C3FA1861A44}
+	EndGlobalSection
+EndGlobal
